@@ -59,3 +59,4 @@ export class TextColumnBlock extends Block {
         return row(html.join(''), this.options.styles)
     }
 }
+
